@@ -1,53 +1,78 @@
-<p align="center"><img src="./assets/hero.png" width="100%" alt="Muhammed Ferhan — Full-Stack Developer | ASP.NET Core, React, Next.js, Cybersecurity" /></p>
 <p align="center">
-<a href="https://mferhan.com/en/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1726?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
-<a href="https://kodnasoft.com/"><img src="https://img.shields.io/badge/KODNASOFT-0D1726?style=for-the-badge&logoColor=A78BFA" alt="KodnaSoft" /></a>
-<a href="https://github.com/frhandev?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-0D1726?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Repositories" /></a>
+  <img src="./assets/hero.png" width="100%" alt="Muhammed Ferhan — Full-Stack Developer | ASP.NET Core, React, Next.js, Cybersecurity" />
 </p>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=500&lines=Building+secure+web+applications;Backend+engineering+%26+AppSec;Learning.+Building.+Improving." alt="Building secure web applications" /></p>
-
-## 01 / About me
-
-Computer Engineering student at **Konya Technical University**, Türkiye. I build full-stack applications using **ASP.NET Core, React and Next.js**, with a particular interest in backend engineering, application security and penetration testing.
-
-- Graduation project: **SocialFlow AI** — AI-assisted social media management.
-- Internship project: **Mini CRM** — customer and quotation management.
-- Currently exploring software architecture, automated testing and DevSecOps.
-
-## 02 / Selected projects
-
-| Project | Focus | Stack / Status |
-| :--- | :--- | :--- |
-| [**SocialFlow AI**](https://github.com/frhandev/social-media-automation) | AI-assisted social media management | Next.js · ASP.NET Core planned · In development |
-| [**Mini CRM**](https://github.com/frhandev/mini-crm) | Customer and quotation management | React · ASP.NET Core planned · In development |
-| [**TaskFlow**](https://github.com/frhandev/taskflow) | Full-stack task management | Next.js · ASP.NET Core · PostgreSQL |
-| [**IRON GYM**](https://github.com/frhandev/iron-gym) | Gym management and database engineering | PostgreSQL · ER modeling · Academic project |
-
-## 03 / Technology stack
-
-| Area | Technologies |
-| :--- | :--- |
-| Backend | C# · ASP.NET Core · EF Core · Node.js · Express |
-| Frontend | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
-| Databases | PostgreSQL · MongoDB · SQL Server |
-| Security & tooling | Linux · Kali Linux · Python · Burp Suite · Docker · Git |
-
-<p align="center"><img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,tailwind,postgres,docker,linux,git&theme=dark&perline=10" alt="Technology icons" /></p>
-
-## 04 / Security & certifications
-
-- Google Cybersecurity Professional Certificate
-- Certified Associate Penetration Tester (CAPT) — Hackviser
-- Certified Web Security Expert (CWSE) — Hackviser
-
-## 05 / GitHub activity
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=frhandev&show_icons=true&hide_border=true&bg_color=0D1726&title_color=22D3EE&text_color=E2E8F0&icon_color=A78BFA" /><img width="48%" src="https://github-readme-stats.vercel.app/api?username=frhandev&show_icons=true&hide_border=true&bg_color=F1F5F9&title_color=075985&text_color=334155&icon_color=6D28D9" alt="GitHub statistics" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frhandev&layout=compact&hide_border=true&bg_color=0D1726&title_color=22D3EE&text_color=E2E8F0" /><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frhandev&layout=compact&hide_border=true&bg_color=F1F5F9&title_color=075985&text_color=334155" alt="Repository languages" /></picture>
+  <a href="https://mferhan.com/en/"><img src="https://img.shields.io/badge/Portfolio-0D1726?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=22D3EE" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/muhammed-ferhan-793196252/"><img src="https://img.shields.io/badge/LinkedIn-0D1726?style=for-the-badge&amp;logo=linkedin&amp;logoColor=22D3EE" alt="LinkedIn" /></a>
+  <a href="https://kodnasoft.com/"><img src="https://img.shields.io/badge/KodnaSoft-0D1726?style=for-the-badge&amp;logo=codeforces&amp;logoColor=A78BFA" alt="KodnaSoft" /></a>
+  <a href="https://github.com/frhandev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1726?style=for-the-badge&amp;logo=github&amp;logoColor=E2E8F0" alt="Repositories" /></a>
 </p>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-dark.svg"/><img src="./assets/contribution-light.svg" width="100%" alt="Contribution animation"/></picture></p>
-<p align="center"><sub>Statistics reflect available repository data, not proficiency ratings.</sub></p>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1800&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+secure+web+applications;Backend+engineering+%26+AppSec;Learning.+Building.+Improving." alt="Building secure web applications — Backend engineering and AppSec" /></p>
+
+<p><img src="./assets/sections/01.svg" width="100%" alt="01 // Developer profile" /></p>
+
+Computer Engineering student at **Konya Technical University**, Türkiye. My focus is building full-stack applications with ASP.NET Core and React, alongside application security and penetration testing.
+
+```text
+$ whoami
+  Focus      : Backend engineering · Full-stack development
+  Building   : SocialFlow AI · Mini CRM
+  Exploring  : Software architecture · Testing · DevSecOps
+```
+
+<p><img src="./assets/sections/02.svg" width="100%" alt="02 // Featured projects" /></p>
+
+<p align="center">
+  <a href="https://github.com/frhandev/social-media-automation"><img width="48%" src="./assets/projects/socialflow.svg" alt="SocialFlow AI — AI-assisted social media automation; Next.js · ASP.NET Core (planned); Graduation · in development" /></a>
+  <a href="https://github.com/frhandev/mini-crm"><img width="48%" src="./assets/projects/mini-crm.svg" alt="Mini CRM — Customer and quotation management; React · ASP.NET Core (planned); Internship · in development" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/frhandev/taskflow"><img width="48%" src="./assets/projects/taskflow.svg" alt="TaskFlow — Task management application; Next.js · ASP.NET Core · PostgreSQL; Full-stack project" /></a>
+  <a href="https://github.com/frhandev/iron-gym"><img width="48%" src="./assets/projects/iron-gym.svg" alt="IRON GYM — Gym membership and relational modeling; PostgreSQL · SQL · ER design; Academic · database project" /></a>
+</p>
+
+<p><img src="./assets/sections/03.svg" width="100%" alt="03 // Technology stack" /></p>
+
+**Backend** · C# / ASP.NET Core / EF Core / Node.js / Express
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&amp;theme=dark" alt="C#, .NET, Node.js and Express" />
+
+**Frontend** · React / Next.js / TypeScript / JavaScript / Tailwind CSS
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&amp;theme=dark" alt="React, Next.js, TypeScript, JavaScript and Tailwind CSS" />
+
+**Data & engineering** · PostgreSQL / MongoDB / SQL Server / Docker / Git
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github&amp;theme=dark" alt="PostgreSQL, MongoDB, Docker, Git and GitHub" />
+
+**Security & tooling** · Linux / Kali Linux / Python / Burp Suite
+
+<img src="https://skillicons.dev/icons?i=linux,kali,py&amp;theme=dark" alt="Linux, Kali Linux and Python" />
+
+<p><img src="./assets/sections/04.svg" width="100%" alt="04 // Security &amp; certifications" /></p>
+
+<p align="center">
+  <img width="48%" src="./assets/certifications/google.svg" alt="Google Cybersecurity — Cybersecurity fundamentals; Google · Coursera" />
+  <img width="48%" src="./assets/certifications/capt.svg" alt="CAPT — Certified Associate Penetration Tester; Penetration testing" />
+</p>
+<p align="center">
+  <img width="48%" src="./assets/certifications/cwse.svg" alt="CWSE — Certified Web Security Expert; Hackviser" />
+</p>
+
+<p><img src="./assets/sections/05.svg" width="100%" alt="05 // Contribution activity" /></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frhandev/frhandev/main/assets/contribution-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frhandev/frhandev/main/assets/contribution-light.svg?v=2" />
+    <img width="100%" src="https://raw.githubusercontent.com/frhandev/frhandev/main/assets/contribution-light.svg?v=2" alt="Animated GitHub contribution calendar" />
+  </picture>
+</p>
+
+<p align="center"><a href="https://github.com/frhandev?tab=overview">View contribution history</a></p>
 
 ---
+
 <p align="center"><strong>Build. Learn. Secure. Repeat.</strong></p>
